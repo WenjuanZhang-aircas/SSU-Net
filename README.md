@@ -3,3 +3,5 @@ SSU-Net: A Novel Spectral-Spatial Dual-Branch U-Net for Spectral Super-Resolutio
 
 
 ## The code will be available after the manuscript is accepted.
+
+方法框架(3structure.pdf)
